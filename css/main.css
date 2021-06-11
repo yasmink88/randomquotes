@@ -6,9 +6,27 @@ body {
   font-family: Abhaya Libre, sans-serif;
   font-size: 1.5rem;
 }
-
+/*
 header #logo img {
   width: 130px;
+}*/
+
+.btn-primary {
+  background-color: #dc01e4;
+  border-color: #dc01e4;
+}
+
+.btn-primary:hover {
+  background-color: #01baff;
+  border-color: #01baff;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.flex-column-reverse {
+  gap: 1em;
 }
 
 .quote-content {
@@ -31,13 +49,29 @@ header #logo img {
 }
 
 blockquote {
-  margin: 1rem 0 0;
+  margin: 2rem 0 0;
 }
 
 cite {
   display: block;
+  font-style: normal;
+  color: #01baff;
+}
+
+cite::before {
+  content: "-";
+  margin-right: 0.5rem;
+}
+
+footer p {
+  font-size: 0.9rem;
 }
 
 footer span {
   font-family: Kalam, serif;
+  word-spacing: -0.2em;
+}
+
+.emoji {
+  color: red;
 }
