@@ -10,7 +10,7 @@ A simple website that generates random quotes created to practice coding. <br>
 
 ## Design
 
-<p align="center"><img src="images/randomquotes-sample.jpg" width="200"></p>
+<p align="center"><img src="images/randomquotes-layout.jpg" width="200"></p>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 ## Credits
