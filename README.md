@@ -1,4 +1,4 @@
-<p align="center"><img src="images/logo.jpg" width="200"></p>
+<p align="center"><img src="public/images/logo.jpg" width="200"></p>
 
 ## Random Quotes
 
@@ -10,7 +10,7 @@ A simple website that generates random quotes created to practice coding. <br>
 
 ## Design
 
-<p align="center"><img src="images/randomquotes-layout.jpg" width="100%"></p>
+<p align="center"><img src="public/images/randomquotes-layout.jpg" width="100%"></p>
 <i>Layout created with </i> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="15" height="15"/> </a>
 
 ## Credits
