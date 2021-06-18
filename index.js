@@ -22,5 +22,5 @@ app.get("/contact", (req, res) => {
 });
 
 //start server (write node server)
-app.listen(8080);
+//app.listen(8080);
 console.log("Server running!");
